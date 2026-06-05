@@ -59,7 +59,7 @@ Students configure scaling policies based on CPU utilization using Amazon CloudW
 Students test the setup by generating traffic and observing automatic scaling and load distribution.
 
 
-
+.
 ## Workflow (To be filled by Student)
 
 1.Review the existing EC2-based application architecture to understand current deployment, resource usage, and scalability requirements before implementing automation.
